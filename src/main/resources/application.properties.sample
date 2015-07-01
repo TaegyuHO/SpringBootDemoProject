@@ -1,0 +1,9 @@
+# DataSource
+spring.datasource.driverClassName=
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+# MVC
+spring.view.prefix=/WEB-INF/view/
+spring.view.suffix=.jsp
